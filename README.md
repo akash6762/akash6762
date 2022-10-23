@@ -1,6 +1,6 @@
 ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A Enthusiastic Data Scientist from Chennai</h3>
+<h3 align="center">An Enthusiastic Data Scientist from Chennai</h3>
 
 - 🌱 I’m currently learning **Python, Machine Learning, Mysql, NLP**
 
