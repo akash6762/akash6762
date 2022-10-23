@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A Enthusiastic Data Scientist from Chennai</h3>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Mysql, Mongodb**
+- 🌱 I’m currently learning **Python, Machine Learning, Mysql, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akash6762](https://github.com/akash6762)
 
